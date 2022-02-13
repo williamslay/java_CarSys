@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="B4_B19030334:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/B4_B19030334_jar</output-path>
+    <root id="archive" name="B4.jar">
+      <element id="module-output" name="B4" />
+    </root>
+  </artifact>
+</component>
